@@ -1,4 +1,5 @@
 # AXI4-Lite Vivado Project
+<img width="1535" height="652" alt="image" src="https://github.com/user-attachments/assets/a70a0002-7a21-48e4-bb7a-a5d6078965ae" />
 
 ## Project contents
 
